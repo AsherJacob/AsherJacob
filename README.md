@@ -1,5 +1,5 @@
 ##  <h2 align="center" >  Hey 👋, Im Asher Jacob  </h2>
-<hr style="height: 3px; margin-top: 0" />
+
 
 <h3 align="left"> About me  </h3>
 <p> I was first introduced to programming (C++) back in 2013 and since then my journey has been slow but it never stood still. It wasn't until 2019 when I started doing learning Web Development and that has certainly opened up several avenues to explore and grow as a developer. Joined the IT industry in Nov'20 and Im looking to constantly keep growing. </p>
